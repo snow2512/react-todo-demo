@@ -1,0 +1,7 @@
+.good {
+    width: 400px;
+    height: 100px;
+    background-color: rgb(245, 245, 245);
+    border-radius: 20px;
+    box-shadow: 3px 0px 20px 2px rgb(179, 179, 179);
+}
